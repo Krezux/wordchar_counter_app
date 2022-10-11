@@ -49,7 +49,3 @@ class MainActivity : AppCompatActivity() {
         }
     }
 }
-
-// to do: class to select choice
-// check if strings aren't empty (toast pranesimas)
-// CountText fill activity
